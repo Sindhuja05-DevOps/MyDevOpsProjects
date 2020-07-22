@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyProject">
+    <test name="WebTesting">
+         <classes>
+             <class name="com.test.experiment1.GooglePage"/>
+             <class name="com.test.experiment1.YahooPage"/>
+          </classes>
+     </test> 
+</suite> 

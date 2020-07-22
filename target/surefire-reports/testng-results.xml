@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyProject" duration-ms="14590" started-at="2020-07-22T23:36:29Z" finished-at="2020-07-22T23:36:43Z">
+    <groups>
+    </groups>
+    <test name="WebTesting" duration-ms="14590" started-at="2020-07-22T23:36:29Z" finished-at="2020-07-22T23:36:43Z">
+      <class name="com.test.experiment1.GooglePage">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.experiment1.GooglePage@5ebec15]" name="f" duration-ms="6756" started-at="2020-07-22T23:36:29Z" finished-at="2020-07-22T23:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test.experiment1.GooglePage -->
+      <class name="com.test.experiment1.YahooPage">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.experiment1.YahooPage@21bcffb5]" name="f" duration-ms="7815" started-at="2020-07-22T23:36:36Z" finished-at="2020-07-22T23:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test.experiment1.YahooPage -->
+    </test> <!-- WebTesting -->
+  </suite> <!-- MyProject -->
+</testng-results>

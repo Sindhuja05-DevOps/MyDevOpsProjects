@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7192" started-at="2020-07-22T23:28:56Z" finished-at="2020-07-22T23:29:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7192" started-at="2020-07-22T23:28:56Z" finished-at="2020-07-22T23:29:03Z">
+      <class name="com.test.experiment1.YahooPage">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.experiment1.YahooPage@2b546384]" name="f" duration-ms="7174" started-at="2020-07-22T23:28:56Z" finished-at="2020-07-22T23:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test.experiment1.YahooPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
